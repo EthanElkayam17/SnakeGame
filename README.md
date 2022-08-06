@@ -1,2 +1,2 @@
 # SnakeGame
-Experimenting pygame library
+Experimenting with pygame library
