@@ -1,0 +1,2 @@
+# SnakeGame
+Experimenting pygame library
